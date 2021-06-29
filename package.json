@@ -1,0 +1,22 @@
+{
+    "name": "Blurple",
+    "displayName": "Blurple vsc theme",
+    "publisher": "Lumber-bud",
+    "description": "An Blurple colored theme for vsc.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lumberbud",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lumberbud-color-theme.json"
+            }
+        ]
+    }
+}
